@@ -2,6 +2,8 @@
 
 Here, we present artificial intelligence velocimetry (AIV) to quantify the velocity, pressure and stress fields of blood flow for micro-aneurysm-on-a-chip (MAOAC), by integrating the imaging data with underlying physics using physics-informed neural networks. 
 
+Please find the data and codes [here](https://drive.google.com/drive/folders/1E1RmxzaQGqO3gi5eVZ4Eil1WcRF5tXX6?usp=sharing).
+
 
 ## Directory
 
