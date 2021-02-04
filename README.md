@@ -11,11 +11,10 @@ Here, we present artificial intelligence velocimetry (AIV) to quantify the veloc
 >**matlab_scripts/**: Matlab scripts to visualize the AIV results  
 >**AIV_training.exe**: executable program that shows a demo of AIV training  
 
-<br>
 
 ## Training AIV
 
-In any Prompt, run
+In the comment prompt (Windows OS), run
 > AIV_training.exe
 
 The executable program will take a long time to complete the training, as this is run on CPUs. It will print the log and training loss and create a .mat file in `HFMresults` folder after training. 
@@ -24,4 +23,6 @@ The executable program will take a long time to complete the training, as this i
 ## Others
 
 The data and codes can be found here: [https://drive.google.com/drive/folders/1E1RmxzaQGqO3gi5eVZ4Eil1WcRF5tXX6?usp=sharing](https://drive.google.com/drive/folders/1E1RmxzaQGqO3gi5eVZ4Eil1WcRF5tXX6?usp=sharing).
+
+
 
