@@ -5,19 +5,19 @@ Here, we present artificial intelligence velocimetry (AIV) to quantify the veloc
 
 ## Directory
 
->**ImageData/**: the raw microfluidic images  
->**HFMdata2D/**: data extracted from the images and used for AIV training  
->**HFMresults/**: results after AIV training  
->**matlab_scripts/**: Matlab scripts to visualize the AIV results  
->**AIV_training.exe**: executable program that shows a demo of AIV training  
+* **ImageData/**: the raw microfluidic images  
+* **HFMdata2D/**: data extracted from the images and used for AIV training  
+* **HFMresults/**: results after AIV training  
+* **matlab_scripts/**: Matlab scripts to visualize the AIV results  
+* **AIV_training.exe**: executable program that shows a demo of AIV training  
 
 
 ## Training AIV
 
-In the comment prompt (Windows OS), run
+In the comment prompt (Windows OS), go to the directory and run
 > AIV_training.exe
 
-The executable program will take a long time to complete the training, as this is run on CPUs. It will print the log and training loss and create a .mat file in `HFMresults` folder after training. 
+The executable program will take a long time to complete the training, as this is run on CPUs. It will print the log and training loss, and create a .mat file in `HFMresults` folder after training. 
 
 
 ## Others
