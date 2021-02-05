@@ -16,7 +16,7 @@ Here, we present artificial intelligence velocimetry (AIV) to quantify the veloc
 
 ## Training AIV
 
-In the comment prompt (Windows OS), go to the directory and run
+In the command prompt (Windows OS), go to the directory and run
 > AIV_training.exe
 
 The executable program will take a long time to complete the training, as this is run on CPUs. It will print the log and training loss, and create a .mat file in `HFMresults` folder after training. 
