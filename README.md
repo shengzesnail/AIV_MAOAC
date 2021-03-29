@@ -4,6 +4,25 @@ Please find the data and codes [here](https://drive.google.com/drive/folders/1E1
 
 Here, we present artificial intelligence velocimetry (AIV) to quantify the velocity, pressure and stress fields of blood flow for micro-aneurysm-on-a-chip (MAOAC), by integrating the imaging data with underlying physics using physics-informed neural networks. 
 
+## Citation
+
+
+	@article {Caie2100697118,
+    author = {Cai, Shengze and Li, He and Zheng, Fuyin and Kong, Fang and Dao, Ming and Karniadakis, George Em and Suresh, Subra},
+    title = {Artificial intelligence velocimetry and microaneurysm-on-a-chip for three-dimensional analysis of blood flow in physiology and disease},
+    volume = {118},
+    number = {13},
+    elocation-id = {e2100697118},
+    year = {2021},
+    doi = {10.1073/pnas.2100697118},
+    publisher = {National Academy of Sciences},
+    issn = {0027-8424},
+    URL = {https://www.pnas.org/content/118/13/e2100697118},
+    eprint = {https://www.pnas.org/content/118/13/e2100697118.full.pdf},
+    journal = {Proceedings of the National Academy of Sciences}
+  }
+
+
 
 ## Directory
 
